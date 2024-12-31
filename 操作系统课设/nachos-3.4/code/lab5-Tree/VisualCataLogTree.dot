@@ -1,0 +1,12 @@
+strict digraph s{
+root[color=green];
+root -> file1;
+root -> dir1;
+root -> dir2;
+dir1 -> file2;
+dir2 -> file3;
+root -> file4;
+dir1 -> dir3;
+dir2 -> dir4;
+dir3 -> file5;
+}

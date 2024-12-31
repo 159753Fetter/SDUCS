@@ -1,0 +1,7 @@
+This is a test file to test the grep command
+
+aaaaaa
+bbbbbb
+cccccc
+I love sdu
+I love sdu

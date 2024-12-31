@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "new": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "syscall.h": "c",
+        "algorithm": "cpp",
+        "random": "c"
+    },
+    "cmake.configureOnOpen": true
+}
